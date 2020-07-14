@@ -1,5 +1,11 @@
 # microservice-pub-sub-sample
 
+### step1
+exec redis client.
+
+### step2
+exec node.
+
 A:
 
 ```nodejs
