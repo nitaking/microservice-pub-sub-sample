@@ -1,0 +1,9 @@
+{
+  "name": "redis-pub-sub",
+  "version": "1.0.0",
+  "main": "subscriber.js",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
